@@ -1,0 +1,2764 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/wikimedia/mediawiki-extensions.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[submodule "3D"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/3D
+[submodule "AControlImageLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AControlImageLink
+[submodule "AIEditingAssistant"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AIEditingAssistant
+[submodule "AJAXPoll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
+[submodule "AbsenteeLandlord"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbsenteeLandlord
+[submodule "AbuseFilter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbuseFilter
+[submodule "AbuseFilterBypass"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbuseFilterBypass
+[submodule "AccessControl"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccessControl
+[submodule "AccountInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountInfo
+[submodule "AchievementBadges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AchievementBadges
+[submodule "Acrolinx"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Acrolinx
+[submodule "ActiveAbstract"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActiveAbstract
+[submodule "AdManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdManager
+[submodule "AddHTMLMetaAndTitle"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddHTMLMetaAndTitle
+[submodule "AddMessages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddMessages
+[submodule "AddPersonalUrls"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddPersonalUrls
+[submodule "Adiutor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Adiutor
+[submodule "AdminLinks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks
+[submodule "AdvancedMeta"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedMeta
+[submodule "AdvancedSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
+[submodule "AjaxShowEditors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AjaxShowEditors
+[submodule "AkismetKlik"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AkismetKlik
+[submodule "AllTimeZones"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AllTimeZones
+[submodule "Analytics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Analytics
+[submodule "AnchorHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnchorHandler
+[submodule "AnonPrivacy"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnonPrivacy
+[submodule "AntiSpoof"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
+[submodule "ApiFeatureUsage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ApiFeatureUsage
+[submodule "ApprovedRevs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ApprovedRevs
+[submodule "ArrayFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArrayFunctions
+[submodule "Arrays"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Arrays
+[submodule "ArticleCreationWorkflow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleCreationWorkflow
+[submodule "ArticleFeedbackv5"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleFeedbackv5
+[submodule "ArticleIndex"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleIndex
+[submodule "ArticleMetaDescription"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleMetaDescription
+[submodule "ArticlePlaceholder"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticlePlaceholder
+[submodule "ArticleRatings"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleRatings
+[submodule "ArticleToCategory2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleToCategory2
+[submodule "AtMentions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AtMentions
+[submodule "Athena"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Athena
+[submodule "Auth_remoteuser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Auth_remoteuser
+[submodule "AuthorProtect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AuthorProtect
+[submodule "AutoCategoriseUploads"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCategoriseUploads
+[submodule "AutoCreateCategoryPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreateCategoryPages
+[submodule "AutoGallery"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoGallery
+[submodule "AutoModerator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoModerator
+[submodule "Awesomeness"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Awesomeness
+[submodule "Babel"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Babel
+[submodule "BatchUserRights"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BatchUserRights
+[submodule "BetaFeatures"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BetaFeatures
+[submodule "BibManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BibManager
+[submodule "BiblioPlus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BiblioPlus
+[submodule "BlockInactive"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockInactive
+[submodule "BlogPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlogPage
+[submodule "BlueSpice"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpice
+[submodule "BlueSpiceAbout"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAbout
+[submodule "BlueSpiceArticleInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceArticleInfo
+[submodule "BlueSpiceArticlePreviewCapture"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceArticlePreviewCapture
+[submodule "BlueSpiceAuthors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAuthors
+[submodule "BlueSpiceAvatars"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAvatars
+[submodule "BlueSpiceBookshelf"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceBookshelf
+[submodule "BlueSpiceCategoryCheck"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryCheck
+[submodule "BlueSpiceCategoryManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryManager
+[submodule "BlueSpiceChecklist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceChecklist
+[submodule "BlueSpiceConfigManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceConfigManager
+[submodule "BlueSpiceContextMenu"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceContextMenu
+[submodule "BlueSpiceCountThings"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCountThings
+[submodule "BlueSpiceCustomMenu"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCustomMenu
+[submodule "BlueSpiceDashboards"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceDashboards
+[submodule "BlueSpiceDistributionConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceDistributionConnector
+[submodule "BlueSpiceEchoConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEchoConnector
+[submodule "BlueSpiceEmoticons"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEmoticons
+[submodule "BlueSpiceExpiry"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExpiry
+[submodule "BlueSpiceExportTables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExportTables
+[submodule "BlueSpiceExtendedFilelist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedFilelist
+[submodule "BlueSpiceExtendedSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedSearch
+[submodule "BlueSpiceExtendedStatistics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedStatistics
+[submodule "BlueSpiceFilterableTables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFilterableTables
+[submodule "BlueSpiceFlaggedRevsConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFlaggedRevsConnector
+[submodule "BlueSpiceFoundation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation
+[submodule "BlueSpiceGroupManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceGroupManager
+[submodule "BlueSpiceHideTitle"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceHideTitle
+[submodule "BlueSpiceInsertCategory"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertCategory
+[submodule "BlueSpiceInsertFile"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertFile
+[submodule "BlueSpiceInsertLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertLink
+[submodule "BlueSpiceInsertTemplate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertTemplate
+[submodule "BlueSpiceInstanceStatus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInstanceStatus
+[submodule "BlueSpiceInterWikiLinks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterWikiLinks
+[submodule "BlueSpiceInterwikiSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterwikiSearch
+[submodule "BlueSpiceMultiUpload"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
+[submodule "BlueSpiceNSFileRepoConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNSFileRepoConnector
+[submodule "BlueSpiceNamespaceCSS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceCSS
+[submodule "BlueSpiceNamespaceManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceManager
+[submodule "BlueSpicePageAccess"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAccess
+[submodule "BlueSpicePageAssignments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAssignments
+[submodule "BlueSpicePageFormsConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageFormsConnector
+[submodule "BlueSpicePageTemplates"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageTemplates
+[submodule "BlueSpicePageVersion"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageVersion
+[submodule "BlueSpicePagesVisited"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePagesVisited
+[submodule "BlueSpicePermissionManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePermissionManager
+[submodule "BlueSpicePlayer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePlayer
+[submodule "BlueSpicePrivacy"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePrivacy
+[submodule "BlueSpiceProDistributionConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceProDistributionConnector
+[submodule "BlueSpiceQrCode"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceQrCode
+[submodule "BlueSpiceRSSFeeder"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRSSFeeder
+[submodule "BlueSpiceRating"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRating
+[submodule "BlueSpiceReadConfirmation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReadConfirmation
+[submodule "BlueSpiceReaders"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
+[submodule "BlueSpiceReminder"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReminder
+[submodule "BlueSpiceSMWConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
+[submodule "BlueSpiceSaferEdit"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSaferEdit
+[submodule "BlueSpiceSignHere"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSignHere
+[submodule "BlueSpiceSmartList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSmartList
+[submodule "BlueSpiceSocial"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocial
+[submodule "BlueSpiceSocialArticleActions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialArticleActions
+[submodule "BlueSpiceSocialBlog"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialBlog
+[submodule "BlueSpiceSocialComments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialComments
+[submodule "BlueSpiceSocialMicroBlog"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialMicroBlog
+[submodule "BlueSpiceSocialProfile"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialProfile
+[submodule "BlueSpiceSocialRating"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialRating
+[submodule "BlueSpiceSocialResolve"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialResolve
+[submodule "BlueSpiceSocialTags"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTags
+[submodule "BlueSpiceSocialTimelineUpdate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTimelineUpdate
+[submodule "BlueSpiceSocialTopics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTopics
+[submodule "BlueSpiceSocialWatch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialWatch
+[submodule "BlueSpiceSocialWikiPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialWikiPage
+[submodule "BlueSpiceSubPageTree"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
+[submodule "BlueSpiceTagCloud"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTagCloud
+[submodule "BlueSpiceUEModuleBookPDF"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleBookPDF
+[submodule "BlueSpiceUEModuleDOCX"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleDOCX
+[submodule "BlueSpiceUEModuleHTML"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleHTML
+[submodule "BlueSpiceUEModulePDF"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
+[submodule "BlueSpiceUEModulePDFRecursive"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDFRecursive
+[submodule "BlueSpiceUEModulePDFSubpages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDFSubpages
+[submodule "BlueSpiceUEModuleTable2Excel"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleTable2Excel
+[submodule "BlueSpiceUniversalExport"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
+[submodule "BlueSpiceUsageTracker"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
+[submodule "BlueSpiceUserInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserInfo
+[submodule "BlueSpiceUserManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserManager
+[submodule "BlueSpiceUserSidebar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserSidebar
+[submodule "BlueSpiceVisualDiff"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceVisualDiff
+[submodule "BlueSpiceVisualEditorConnector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceVisualEditorConnector
+[submodule "BlueSpiceWatchList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWatchList
+[submodule "BlueSpiceWhoIsOnline"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWhoIsOnline
+[submodule "BlueSpiceWikiExplorer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWikiExplorer
+[submodule "BlueSpiceWikiFarm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWikiFarm
+[submodule "BoilerPlate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
+[submodule "BounceHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BounceHandler
+[submodule "BreadCrumbs2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BreadCrumbs2
+[submodule "BrickipediaExtra"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BrickipediaExtra
+[submodule "Buggy"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Buggy
+[submodule "BulkBlock"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BulkBlock
+[submodule "CIForms"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CIForms
+[submodule "CSS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CSS
+[submodule "Calendar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Calendar
+[submodule "CampaignEvents"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CampaignEvents
+[submodule "Campaigns"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Campaigns
+[submodule "Capiunto"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Capiunto
+[submodule "Cargo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
+[submodule "CategoryExplorer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryExplorer
+[submodule "CategoryLockdown"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryLockdown
+[submodule "CategorySortHeaders"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategorySortHeaders
+[submodule "CategoryTagSorter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTagSorter
+[submodule "CategoryTests"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTests
+[submodule "CategoryTree"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
+[submodule "CategoryWatch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryWatch
+[submodule "CentralAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CentralAuth
+[submodule "CentralLogging"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CentralLogging
+[submodule "CentralNotice"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CentralNotice
+[submodule "Challenge"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Challenge
+[submodule "ChangeAuthor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChangeAuthor
+[submodule "CharInsert"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CharInsert
+[submodule "Chart"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Chart
+[submodule "CheckUser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser
+[submodule "Checklists"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checklists
+[submodule "ChessBrowser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChessBrowser
+[submodule "CirrusSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CirrusSearch
+[submodule "Cite"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
+[submodule "CiteDrawer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteDrawer
+[submodule "CiteThisPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteThisPage
+[submodule "Citoid"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Citoid
+[submodule "CleanChanges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CleanChanges
+[submodule "CloneDiff"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloneDiff
+[submodule "CloseWikis"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloseWikis
+[submodule "CloudflarePurge"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloudflarePurge
+[submodule "CodeEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeEditor
+[submodule "CodeMirror"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeMirror
+[submodule "Cognate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cognate
+[submodule "CognitiveProcessDesigner"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CognitiveProcessDesigner
+[submodule "CollabPads"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPads
+[submodule "CollapsibleSections"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleSections
+[submodule "CollapsibleVector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleVector
+[submodule "Collection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Collection
+[submodule "CommentStreams"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommentStreams
+[submodule "Commentbox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Commentbox
+[submodule "Comments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Comments
+[submodule "CommonMessages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonMessages
+[submodule "CommonsMetadata"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
+[submodule "CommunityConfiguration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfiguration
+[submodule "CommunityConfigurationExample"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfigurationExample
+[submodule "CommunityRequests"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityRequests
+[submodule "ConfigManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigManager
+[submodule "ConfirmAccount"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmAccount
+[submodule "ConfirmEdit"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit
+[submodule "ContactManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContactManager
+[submodule "ContactPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContactPage
+[submodule "ContainerFilter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContainerFilter
+[submodule "ContentDroplets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentDroplets
+[submodule "ContentStabilization"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentStabilization
+[submodule "ContentTransfer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentTransfer
+[submodule "ContentTranslation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentTranslation
+[submodule "ContributionCredits"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionCredits
+[submodule "ContributionScores"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionScores
+[submodule "ContributionsList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionsList
+[submodule "Contributors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Contributors
+[submodule "CookieWarning"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieWarning
+[submodule "CosmosProfile"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CosmosProfile
+[submodule "CountDownClock"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CountDownClock
+[submodule "CrawlableAllPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CrawlableAllPages
+[submodule "CreateAPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateAPage
+[submodule "CreatePage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
+[submodule "CreatePageUw"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePageUw
+[submodule "CreateRedirect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateRedirect
+[submodule "CreateUserPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateUserPage
+[submodule "CreatedPagesList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatedPagesList
+[submodule "CreditsSource"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
+[submodule "DPLforum"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DPLforum
+[submodule "DarkMode"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DarkMode
+[submodule "Dashiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Dashiki
+[submodule "DataTable2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DataTable2
+[submodule "DataTransfer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DataTransfer
+[submodule "DateDiff"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateDiff
+[submodule "DateTimeTools"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateTimeTools
+[submodule "DebugTemplates"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DebugTemplates
+[submodule "DeleteBatch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeleteBatch
+[submodule "DeletePagesForGood"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeletePagesForGood
+[submodule "DeleteUserPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeleteUserPages
+[submodule "Description2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Description2
+[submodule "DeviceMapLogCapture"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeviceMapLogCapture
+[submodule "Diagnosis"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Diagnosis
+[submodule "DidYouKnow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DidYouKnow
+[submodule "DisableAccount"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisableAccount
+[submodule "Disambiguator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Disambiguator
+[submodule "DiscordRCFeed"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscordRCFeed
+[submodule "Discourse"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Discourse
+[submodule "DiscussionThreading"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionThreading
+[submodule "DiscussionTools"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionTools
+[submodule "DismissableSiteNotice"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DismissableSiteNotice
+[submodule "DisplayTitle"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisplayTitle
+[submodule "DisqusTag"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisqusTag
+[submodule "DocBookExport"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DocBookExport
+[submodule "DonationInterface"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DonationInterface
+[submodule "Drafts"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Drafts
+[submodule "DrawioEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DrawioEditor
+[submodule "DumpsOnDemand"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpsOnDemand
+[submodule "DynamicPageListEngine"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageListEngine
+[submodule "DynamicSidebar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
+[submodule "EImage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EImage
+[submodule "EasyWiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EasyWiki
+[submodule "Echo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
+[submodule "EditAccount"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditAccount
+[submodule "EditNotify"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditNotify
+[submodule "EditSimilar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditSimilar
+[submodule "EditSubpages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditSubpages
+[submodule "EditUser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditUser
+[submodule "Editcount"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Editcount
+[submodule "EditcountAdditions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditcountAdditions
+[submodule "Elastica"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Elastica
+[submodule "ElectronPdfService"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ElectronPdfService
+[submodule "EmailAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailAuth
+[submodule "EmailAuthorization"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailAuthorization
+[submodule "EmailCapture"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailCapture
+[submodule "EmailNotifications"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailNotifications
+[submodule "EmergencyCaptcha"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmergencyCaptcha
+[submodule "EncryptedUploads"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EncryptedUploads
+[submodule "EnhanceContactForm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
+[submodule "EnhancedStandardUIs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhancedStandardUIs
+[submodule "EnhancedUpload"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhancedUpload
+[submodule "EntitySchema"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EntitySchema
+[submodule "ErrorHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ErrorHandler
+[submodule "EtherpadLite"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EtherpadLite
+[submodule "EventBus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventBus
+[submodule "EventLogging"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventLogging
+[submodule "EventSimulator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventSimulator
+[submodule "EventStreamConfig"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventStreamConfig
+[submodule "Expressions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Expressions
+[submodule "ExtJSBase"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
+[submodule "ExtensionDistributor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtensionDistributor
+[submodule "ExternalArticles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalArticles
+[submodule "ExternalData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalData
+[submodule "ExternalGuidance"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalGuidance
+[submodule "ExternalLinkConfirm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalLinkConfirm
+[submodule "ExtraLanguageLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
+[submodule "FacetedCategory"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FacetedCategory
+[submodule "FanBoxes"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FanBoxes
+[submodule "Favorites"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Favorites
+[submodule "FeaturedFeeds"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FeaturedFeeds
+[submodule "Figures"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Figures
+[submodule "FileAnnotations"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileAnnotations
+[submodule "FileExporter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileExporter
+[submodule "FileImporter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileImporter
+[submodule "FileSystemImageServer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileSystemImageServer
+[submodule "FilterListUsers"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterListUsers
+[submodule "FilterSpecialPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterSpecialPages
+[submodule "FixedHeaderTable"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FixedHeaderTable
+[submodule "FlaggedRevs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlaggedRevs
+[submodule "FlexDiagrams"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlexDiagrams
+[submodule "FlexiSkin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlexiSkin
+[submodule "FlickrAPI"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlickrAPI
+[submodule "Flow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Flow
+[submodule "ForcePreview"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ForcePreview
+[submodule "Form"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
+[submodule "FormWizard"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormWizard
+[submodule "FormatDates"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatDates
+[submodule "Forms"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Forms
+[submodule "FundraiserLandingPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraiserLandingPage
+[submodule "FundraisingEmailUnsubscribe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingEmailUnsubscribe
+[submodule "FundraisingTranslateWorkflow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingTranslateWorkflow
+[submodule "GPGMail"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GPGMail
+[submodule "Gadgets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
+[submodule "Genealogy"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Genealogy
+[submodule "GenerateMochaConfig"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GenerateMochaConfig
+[submodule "GeoCrumbs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GeoCrumbs
+[submodule "GeoData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GeoData
+[submodule "GeoGebra"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GeoGebra
+[submodule "Git2Pages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Git2Pages
+[submodule "GitGadgets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitGadgets
+[submodule "GlobalBlocking"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalBlocking
+[submodule "GlobalContributions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalContributions
+[submodule "GlobalCssJs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalCssJs
+[submodule "GlobalNotice"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalNotice
+[submodule "GlobalPreferences"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalPreferences
+[submodule "GlobalUsage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUsage
+[submodule "GlobalUserGroups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserGroups
+[submodule "GlobalUserPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserPage
+[submodule "GlobalUserrights"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserrights
+[submodule "GlobalWatchlist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalWatchlist
+[submodule "GoogleAdSense"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAdSense
+[submodule "GoogleAnalyticsMetrics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAnalyticsMetrics
+[submodule "GoogleAnalyticsTopPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAnalyticsTopPages
+[submodule "GoogleAuthenticator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAuthenticator
+[submodule "GoogleCustomWikiSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleCustomWikiSearch
+[submodule "GoogleDocCreator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleDocCreator
+[submodule "GoogleDocTag"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleDocTag
+[submodule "GoogleDocs4MW"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleDocs4MW
+[submodule "GoogleGeocode"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleGeocode
+[submodule "GoogleLogin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleLogin
+[submodule "GoogleNewsSitemap"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleNewsSitemap
+[submodule "GooglePlaces"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GooglePlaces
+[submodule "GoogleSiteSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleSiteSearch
+[submodule "GoogleTagManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleTagManager
+[submodule "GoogleTranslate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleTranslate
+[submodule "Graph"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Graph
+[submodule "GraphQL"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphQL
+[submodule "Gravatar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gravatar
+[submodule "GroupWhitelist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupWhitelist
+[submodule "GroupsSidebar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupsSidebar
+[submodule "GrowthExperiments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GrowthExperiments
+[submodule "GuidedTour"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GuidedTour
+[submodule "HAWelcome"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HAWelcome
+[submodule "HSTS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HSTS
+[submodule "HTMLPurifier"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLPurifier
+[submodule "HTMLTags"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLTags
+[submodule "HTMLTemplates"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLTemplates
+[submodule "HTMLets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLets
+[submodule "HashTables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HashTables
+[submodule "Hashtags"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Hashtags
+[submodule "HeadScript"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeadScript
+[submodule "HeaderFooter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeaderFooter
+[submodule "HeaderTabs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeaderTabs
+[submodule "HelpCommons"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HelpCommons
+[submodule "HelpPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HelpPages
+[submodule "HidePrefix"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HidePrefix
+[submodule "HierarchyBuilder"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HierarchyBuilder
+[submodule "HighlightjsIntegration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HighlightjsIntegration
+[submodule "HitCounters"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HitCounters
+[submodule "HoneyPot"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HoneyPot
+[submodule "HostStats"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HostStats
+[submodule "HotCat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HotCat
+[submodule "HoverGallery"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HoverGallery
+[submodule "Hreflang"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Hreflang
+[submodule "I18nTags"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/I18nTags
+[submodule "IPInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IPInfo
+[submodule "IPReputation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IPReputation
+[submodule "IframePage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
+[submodule "ImageMap"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
+[submodule "ImageMapEdit"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMapEdit
+[submodule "ImageRating"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageRating
+[submodule "ImageSuggestions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageSuggestions
+[submodule "ImageTweaks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTweaks
+[submodule "ImapAuthorization"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImapAuthorization
+[submodule "ImportArticles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportArticles
+[submodule "ImportFreeImages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportFreeImages
+[submodule "ImportOfficeFiles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportOfficeFiles
+[submodule "ImportUsers"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportUsers
+[submodule "Inbox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Inbox
+[submodule "InlineCategorizer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InlineCategorizer
+[submodule "InlineComments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InlineComments
+[submodule "InputBox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InputBox
+[submodule "Insider"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Insider
+[submodule "InteractiveBlockMessage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InteractiveBlockMessage
+[submodule "Interwiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
+[submodule "InterwikiExtracts"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InterwikiExtracts
+[submodule "InterwikiSorting"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InterwikiSorting
+[submodule "InviteSignup"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
+[submodule "JSBreadCrumbs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
+[submodule "JWTAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JWTAuth
+[submodule "Josa"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Josa
+[submodule "Json5Config"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Json5Config
+[submodule "JsonConfig"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JsonConfig
+[submodule "JsonData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JsonData
+[submodule "Kartographer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Kartographer
+[submodule "LDAPAuthentication2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthentication2
+[submodule "LDAPAuthorization"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthorization
+[submodule "LDAPGroups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPGroups
+[submodule "LDAPProvider"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPProvider
+[submodule "LDAPSyncAll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPSyncAll
+[submodule "LDAPUserInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPUserInfo
+[submodule "LabeledSectionTransclusion"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LabeledSectionTransclusion
+[submodule "LandingCheck"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LandingCheck
+[submodule "LanguageSelector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LanguageSelector
+[submodule "LanguageTag"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LanguageTag
+[submodule "LanguageTool"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LanguageTool
+[submodule "LastModified"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LastModified
+[submodule "LastUserLogin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LastUserLogin
+[submodule "LdapAuthentication"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
+[submodule "LegalLogin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LegalLogin
+[submodule "LibraryCheckout"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LibraryCheckout
+[submodule "Lingo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Lingo
+[submodule "LinkCards"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkCards
+[submodule "LinkFilter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkFilter
+[submodule "LinkSuggest"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkSuggest
+[submodule "LinkSuggest2"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkSuggest2
+[submodule "LinkTarget"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkTarget
+[submodule "Link_Attributes"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Link_Attributes
+[submodule "LinkedWiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkedWiki
+[submodule "Linter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Linter
+[submodule "LiquidThreads"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiquidThreads
+[submodule "LiveChat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveChat
+[submodule "LiveStreaming"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveStreaming
+[submodule "LockAuthor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LockAuthor
+[submodule "LockDownEnglishPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LockDownEnglishPages
+[submodule "Lockdown"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Lockdown
+[submodule "LogEntry"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LogEntry
+[submodule "LoginNotify"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LoginNotify
+[submodule "LogoFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LogoFunctions
+[submodule "LookupUser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LookupUser
+[submodule "LoopFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LoopFunctions
+[submodule "Loops"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Loops
+[submodule "MP3MediaHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
+[submodule "MWVersionInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
+[submodule "MagicLinkAuthentication"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicLinkAuthentication
+[submodule "MagicNoCache"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNoCache
+[submodule "Mailgun"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Mailgun
+[submodule "Maintenance"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Maintenance
+[submodule "MaintenanceShell"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MaintenanceShell
+[submodule "MapSources"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MapSources
+[submodule "MarkAsHelpful"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MarkAsHelpful
+[submodule "MassEditRegex"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassEditRegex
+[submodule "MassMessage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassMessage
+[submodule "MassMessageEmail"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassMessageEmail
+[submodule "Math"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Math
+[submodule "MathSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MathSearch
+[submodule "MediaFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaFunctions
+[submodule "MediaModeration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaModeration
+[submodule "MediaSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaSearch
+[submodule "MediaSpoiler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaSpoiler
+[submodule "MediaUploader"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaUploader
+[submodule "MediaWikiChat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiChat
+[submodule "MediaWikiFarm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiFarm
+[submodule "Memento"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Memento
+[submodule "MenuEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MenuEditor
+[submodule "MergeArticles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MergeArticles
+[submodule "MessageCommons"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MessageCommons
+[submodule "MetaMaster"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MetaMaster
+[submodule "Metadata"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Metadata
+[submodule "MetricsPlatform"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MetricsPlatform
+[submodule "MiniInvite"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
+[submodule "MinimumNameLength"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MinimumNameLength
+[submodule "MintyDocs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MintyDocs
+[submodule "MissedPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MissedPages
+[submodule "MobileApp"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileApp
+[submodule "MobileDetect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileDetect
+[submodule "MobileFrontend"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend
+[submodule "MobileFrontendContentProvider"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontendContentProvider
+[submodule "Model"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Model
+[submodule "Monstranto"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Monstranto
+[submodule "MontserratFont"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
+[submodule "Mpdf"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Mpdf
+[submodule "MsCalendar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsCalendar
+[submodule "MsCatSelect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsCatSelect
+[submodule "MsInsert"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsInsert
+[submodule "MsLinks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsLinks
+[submodule "MsUpload"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsUpload
+[submodule "MsWikiEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MsWikiEditor
+[submodule "MultiBoilerplate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiBoilerplate
+[submodule "MultiLanguageManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiLanguageManager
+[submodule "MultiMail"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMail
+[submodule "MultiMaps"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMaps
+[submodule "MultimediaViewer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
+[submodule "MusicBrainzAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MusicBrainzAuth
+[submodule "MyVariables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MyVariables
+[submodule "NCBITaxonomyLookup"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NCBITaxonomyLookup
+[submodule "NSFileRepo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NSFileRepo
+[submodule "NamespacePaths"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespacePaths
+[submodule "NamespacePopups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespacePopups
+[submodule "NamespaceRelations"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceRelations
+[submodule "NamespaceSidebar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceSidebar
+[submodule "NativeSvgHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NativeSvgHandler
+[submodule "NaturalLanguageList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaturalLanguageList
+[submodule "NavigationTiming"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NavigationTiming
+[submodule "NaylorAMS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaylorAMS
+[submodule "NearbyPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NearbyPages
+[submodule "Negref"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Negref
+[submodule "NetworkAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NetworkAuth
+[submodule "NetworkSession"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NetworkSession
+[submodule "NewSignupPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewSignupPage
+[submodule "NewUserActions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUserActions
+[submodule "NewUserMessage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUserMessage
+[submodule "NewUserNotif"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUserNotif
+[submodule "NewestPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewestPages
+[submodule "NewsBox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsBox
+[submodule "Newsletter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Newsletter
+[submodule "NoBogusUserpages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoBogusUserpages
+[submodule "NoCat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoCat
+[submodule "NoTitle"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoTitle
+[submodule "NotebookViewer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotebookViewer
+[submodule "NotesLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotesLink
+[submodule "NotifyMe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotifyMe
+[submodule "Nuke"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
+[submodule "NukeDPL"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NukeDPL
+[submodule "NumberFormat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberFormat
+[submodule "NumberHeadings"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberHeadings
+[submodule "NumberOfWikis"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfWikis
+[submodule "Numbertext"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Numbertext
+[submodule "NumerAlpha"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumerAlpha
+[submodule "OATHAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OATHAuth
+[submodule "OAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuth
+[submodule "OAuthAuthentication"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthAuthentication
+[submodule "OAuthRateLimiter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthRateLimiter
+[submodule "OOJSPlus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJSPlus
+[submodule "OOJsUIAjaxLogin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJsUIAjaxLogin
+[submodule "ORES"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ORES
+[submodule "OdbcDatabase"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OdbcDatabase
+[submodule "OnionsPorFavor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnionsPorFavor
+[submodule "OnlineStatusBar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnlineStatusBar
+[submodule "OnlyRecentRecentChanges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnlyRecentRecentChanges
+[submodule "OpenBadges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenBadges
+[submodule "OpenGraphMeta"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenGraphMeta
+[submodule "OpenIDConnect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect
+[submodule "OpenJsCad"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenJsCad
+[submodule "OpenLayers"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenLayers
+[submodule "OrphanedTalkPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
+[submodule "OurWorldInData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OurWorldInData
+[submodule "PCRGUIInserts"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PCRGUIInserts
+[submodule "PDFEmbed"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PDFEmbed
+[submodule "PGFTikZ"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PGFTikZ
+[submodule "PageAssessments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAssessments
+[submodule "PageAuthors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAuthors
+[submodule "PageCheckout"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCheckout
+[submodule "PageDisqus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageDisqus
+[submodule "PageEncryption"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageEncryption
+[submodule "PageExchange"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageExchange
+[submodule "PageForms"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageForms
+[submodule "PageImages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageImages
+[submodule "PageInCat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageInCat
+[submodule "PageLanguage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguage
+[submodule "PageMagic"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageMagic
+[submodule "PageNameFormula"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNameFormula
+[submodule "PageNotice"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNotice
+[submodule "PageOwnership"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageOwnership
+[submodule "PagePermissions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePermissions
+[submodule "PagePopups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePopups
+[submodule "PagePort"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePort
+[submodule "PageProperties"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageProperties
+[submodule "PageSchemas"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageSchemas
+[submodule "PageTools"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageTools
+[submodule "PageTriage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageTriage
+[submodule "PageViewInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageViewInfo
+[submodule "PageViewInfoGA"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageViewInfoGA
+[submodule "PagedTiffHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagedTiffHandler
+[submodule "PagesList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagesList
+[submodule "PaginateText"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PaginateText
+[submodule "PanScroll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PanScroll
+[submodule "ParentPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParentPage
+[submodule "ParserFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFunctions
+[submodule "ParserMigration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserMigration
+[submodule "PasswordlessLogin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PasswordlessLogin
+[submodule "Patroller"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Patroller
+[submodule "PdfHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
+[submodule "PerPageLanguage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerPageLanguage
+[submodule "PerformanceInspector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerformanceInspector
+[submodule "Petition"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Petition
+[submodule "PhabTaskGraph"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhabTaskGraph
+[submodule "Phonos"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Phonos
+[submodule "PhotoSwipe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhotoSwipe
+[submodule "PhpHighlight"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpHighlight
+[submodule "PhpTags"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTags
+[submodule "PhpTagsFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsFunctions
+[submodule "PhpTagsSMW"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsSMW
+[submodule "PhpTagsSPARQL"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsSPARQL
+[submodule "PhpTagsStorage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsStorage
+[submodule "PhpTagsWidgets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWidgets
+[submodule "PhpTagsWiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWiki
+[submodule "PictureGame"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PictureGame
+[submodule "PipeEscape"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PipeEscape
+[submodule "PlaceNewSection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PlaceNewSection
+[submodule "PluggableAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth
+[submodule "PluggableSSO"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableSSO
+[submodule "Poem"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poem
+[submodule "Poll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poll
+[submodule "PollNY"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PollNY
+[submodule "Polyglot"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Polyglot
+[submodule "PopcornEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopcornEditor
+[submodule "PopupAlerts"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopupAlerts
+[submodule "Popups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups
+[submodule "PreToClip"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreToClip
+[submodule "PreferencesList"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesList
+[submodule "Prezi"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prezi
+[submodule "PrimarySources"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrimarySources
+[submodule "PrincePDF"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrincePDF
+[submodule "PrivateDomains"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivateDomains
+[submodule "PrivatePageProtection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivatePageProtection
+[submodule "PronunciationRecording"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PronunciationRecording
+[submodule "ProofreadPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProofreadPage
+[submodule "Prop"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prop
+[submodule "PropertySuggester"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PropertySuggester
+[submodule "ProtectSite"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectSite
+[submodule "ProtectionIndicator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectionIndicator
+[submodule "PurgeClickThrough"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PurgeClickThrough
+[submodule "Push"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Push
+[submodule "PushAll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushAll
+[submodule "PushToWatch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushToWatch
+[submodule "PwnedPasswords"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PwnedPasswords
+[submodule "Quantcast"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Quantcast
+[submodule "QuickGV"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickGV
+[submodule "QuickInstantCommons"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickInstantCommons
+[submodule "QuickResponse"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickResponse
+[submodule "QuickSearchLookup"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickSearchLookup
+[submodule "QuickSurveys"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickSurveys
+[submodule "Quiz"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Quiz
+[submodule "QuizGame"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuizGame
+[submodule "RSS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS
+[submodule "RandomArea"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomArea
+[submodule "RandomGameUnit"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomGameUnit
+[submodule "RandomImage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomImage
+[submodule "RandomImageByCategory"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomImageByCategory
+[submodule "RandomInCategory"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomInCategory
+[submodule "RandomPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomPages
+[submodule "RandomSelection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
+[submodule "ReadAloud"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadAloud
+[submodule "ReadingLists"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
+[submodule "RealMe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RealMe
+[submodule "Realnames"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Realnames
+[submodule "ReassignEdits"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReassignEdits
+[submodule "Recoin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Recoin
+[submodule "RedirectManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RedirectManager
+[submodule "RefreshSpecial"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RefreshSpecial
+[submodule "RegexBlock"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexBlock
+[submodule "RegexFun"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexFun
+[submodule "RegexFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexFunctions
+[submodule "RegularTooltips"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegularTooltips
+[submodule "RelMicroformat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelMicroformat
+[submodule "RelatedArticles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedArticles
+[submodule "RelatedSites"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedSites
+[submodule "Renameuser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Renameuser
+[submodule "ReplaceSet"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceSet
+[submodule "ReplaceText"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
+[submodule "Report"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Report
+[submodule "ReportIncident"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReportIncident
+[submodule "RevisionSlider"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevisionSlider
+[submodule "RightFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RightFunctions
+[submodule "S5SlideShow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/S5SlideShow
+[submodule "SVGEdit"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SVGEdit
+[submodule "SacredText"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SacredText
+[submodule "SafeDelete"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SafeDelete
+[submodule "Sanctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sanctions
+[submodule "SandboxLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SandboxLink
+[submodule "Sarcasm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sarcasm
+[submodule "SaveSpinner"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SaveSpinner
+[submodule "Score"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Score
+[submodule "Screenplay"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Screenplay
+[submodule "Scribe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribe
+[submodule "Scribunto"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
+[submodule "ScrollableTables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ScrollableTables
+[submodule "SearchExtraNS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchExtraNS
+[submodule "SearchParserFunction"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchParserFunction
+[submodule "SearchStats"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchStats
+[submodule "SearchThumbs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchThumbs
+[submodule "SearchVue"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchVue
+[submodule "SectionAnchors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionAnchors
+[submodule "SectionDisqus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
+[submodule "SecureAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureAuth
+[submodule "SecureHTML"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
+[submodule "SecureLinkFixer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureLinkFixer
+[submodule "SecurePoll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePoll
+[submodule "SecurityApi"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurityApi
+[submodule "SelectCategory"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SelectCategory
+[submodule "SelectTag"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SelectTag
+[submodule "SemanticACL"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticACL
+[submodule "SemanticGenealogy"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
+[submodule "SemanticImageInput"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageInput
+[submodule "SemanticInternalObjects"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
+[submodule "SemanticPageSeries"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticPageSeries
+[submodule "SemanticRESTAPI"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRESTAPI
+[submodule "SemanticRating"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRating
+[submodule "SemanticSifter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSifter
+[submodule "SemanticWebBrowser"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
+[submodule "SendGrid"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SendGrid
+[submodule "Sentry"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sentry
+[submodule "Share"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Share
+[submodule "SharedHelpPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SharedHelpPages
+[submodule "Shibboleth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Shibboleth
+[submodule "ShortUrl"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrl
+[submodule "ShoutWikiAPI"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutWikiAPI
+[submodule "ShoutWikiAds"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutWikiAds
+[submodule "ShowMe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowMe
+[submodule "ShowRealUsernames"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowRealUsernames
+[submodule "SidebarDonateBox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SidebarDonateBox
+[submodule "SignWritingMediaWikiPlugin"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
+[submodule "SimSigCompanion"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimSigCompanion
+[submodule "SimilarEditors"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimilarEditors
+[submodule "SimpleCalendar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleCalendar
+[submodule "SimpleChanges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleChanges
+[submodule "SimpleSAMLphp"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSAMLphp
+[submodule "SimpleSort"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSort
+[submodule "SimpleTasks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleTasks
+[submodule "SiteMatrix"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteMatrix
+[submodule "SiteMetrics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteMetrics
+[submodule "SiteSettings"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteSettings
+[submodule "SkinPerNamespace"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SkinPerNamespace
+[submodule "SkinPerPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SkinPerPage
+[submodule "SlimboxThumbs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SlimboxThumbs
+[submodule "SmiteSpam"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SmiteSpam
+[submodule "SocialProfile"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialProfile
+[submodule "Sofa"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sofa
+[submodule "SoftRedirector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftRedirector
+[submodule "SoftwareVersion"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftwareVersion
+[submodule "SoundManager2Button"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoundManager2Button
+[submodule "SpamBlacklist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamBlacklist
+[submodule "SpamDiffTool"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamDiffTool
+[submodule "SpamRegex"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamRegex
+[submodule "Spark"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Spark
+[submodule "SparkPost"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SparkPost
+[submodule "Special404"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Special404
+[submodule "SpecialNamespaces"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpecialNamespaces
+[submodule "SpellingApi"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpellingApi
+[submodule "SpellingDictionary"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpellingDictionary
+[submodule "SphinxSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SphinxSearch
+[submodule "SplitPrivateWiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SplitPrivateWiki
+[submodule "SportsTeams"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SportsTeams
+[submodule "StaffEdits"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StaffEdits
+[submodule "StaffPowers"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StaffPowers
+[submodule "StalkerLog"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StalkerLog
+[submodule "StandardDialogs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardDialogs
+[submodule "StandardWikitext"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardWikitext
+[submodule "StatCounter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StatCounter
+[submodule "StopForumSpam"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StopForumSpam
+[submodule "StringFunctionsEscaped"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StringFunctionsEscaped
+[submodule "StructuredNavigation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StructuredNavigation
+[submodule "SubPageList3"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubPageList3
+[submodule "SubnetCalc"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubnetCalc
+[submodule "SubpageFun"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageFun
+[submodule "SubpageNavigation"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageNavigation
+[submodule "SubpageSortkey"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageSortkey
+[submodule "SubpageWatchlist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageWatchlist
+[submodule "Sudo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sudo
+[submodule "Survey"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Survey
+[submodule "SwiftMailer"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwiftMailer
+[submodule "SyntaxHighlight_GeSHi"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi
+[submodule "TEI"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TEI
+[submodule "TableTools"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TableTools
+[submodule "Tabs"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabs
+[submodule "TalkBelow"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TalkBelow
+[submodule "TemplateData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
+[submodule "TemplateSandbox"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateSandbox
+[submodule "TemplateStyles"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles
+[submodule "TemplateWizard"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateWizard
+[submodule "TestLanguageNameGrammar"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TestLanguageNameGrammar
+[submodule "TextExtracts"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TextExtracts
+[submodule "TextScroller"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TextScroller
+[submodule "Thanks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Thanks
+[submodule "TheWikipediaLibrary"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TheWikipediaLibrary
+[submodule "Theme"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Theme
+[submodule "ThrottleOverride"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThrottleOverride
+[submodule "TimeMachine"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimeMachine
+[submodule "TimedMediaHandler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimedMediaHandler
+[submodule "TimelineTable"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimelineTable
+[submodule "TinyMCE"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TinyMCE
+[submodule "TitleBlacklist"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleBlacklist
+[submodule "TitleIcon"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleIcon
+[submodule "TitleKey"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleKey
+[submodule "TocTree"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TocTree
+[submodule "Toolhub"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Toolhub
+[submodule "Tooltip"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tooltip
+[submodule "TopTenPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TopTenPages
+[submodule "TorBlock"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TorBlock
+[submodule "Translate"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Translate
+[submodule "TranslationNotifications"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TranslationNotifications
+[submodule "TrustedXFF"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TrustedXFF
+[submodule "TuleapIntegration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TuleapIntegration
+[submodule "TuleapWikiFarm"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TuleapWikiFarm
+[submodule "TweetANew"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TweetANew
+[submodule "TwitterCards"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterCards
+[submodule "TwitterTag"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterTag
+[submodule "TwnMainPage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwnMainPage
+[submodule "TwoColConflict"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwoColConflict
+[submodule "UIFeedback"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UIFeedback
+[submodule "UILangCode"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
+[submodule "UnCaptcha"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
+[submodule "UnblockMe"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnblockMe
+[submodule "UnicodeConverter"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnicodeConverter
+[submodule "UnifiedTaskOverview"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnifiedTaskOverview
+[submodule "UniversalLanguageSelector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UniversalLanguageSelector
+[submodule "UnlinkedWikibase"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnlinkedWikibase
+[submodule "UnusedRedirects"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnusedRedirects
+[submodule "UpdateMediaWiki"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UpdateMediaWiki
+[submodule "UploadWizard"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadWizard
+[submodule "UploadsLink"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadsLink
+[submodule "UrlGetParameters"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UrlGetParameters
+[submodule "UrlShortener"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UrlShortener
+[submodule "UseResource"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UseResource
+[submodule "UserAgreement"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserAgreement
+[submodule "UserExport"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserExport
+[submodule "UserFunctions"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserFunctions
+[submodule "UserGroups"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserGroups
+[submodule "UserMerge"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserMerge
+[submodule "UserOptionStats"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserOptionStats
+[submodule "UserPageEditProtection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageEditProtection
+[submodule "UserPageViewTracker"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageViewTracker
+[submodule "UserProtect"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserProtect
+[submodule "UserStatus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
+[submodule "UserVerification"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserVerification
+[submodule "VECancelButton"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VECancelButton
+[submodule "VEForAll"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VEForAll
+[submodule "VIKI"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VIKI
+[submodule "Variables"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Variables
+[submodule "VersionCompare"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VersionCompare
+[submodule "Video"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Video
+[submodule "Views"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Views
+[submodule "VikiSemanticTitle"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VikiSemanticTitle
+[submodule "VikiTitleIcon"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VikiTitleIcon
+[submodule "VipsScaler"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VipsScaler
+[submodule "VisualData"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualData
+[submodule "VisualEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
+[submodule "VisualEditorPlus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditorPlus
+[submodule "VoteNY"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
+[submodule "VueJsPlus"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueJsPlus
+[submodule "VueTest"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueTest
+[submodule "WSOAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSOAuth
+[submodule "WantedPagesFromNS"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
+[submodule "WarnNotRecentlyUpdated"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WarnNotRecentlyUpdated
+[submodule "WatchAnalytics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WatchAnalytics
+[submodule "WatchSubpages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WatchSubpages
+[submodule "WebAuthn"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebAuthn
+[submodule "WebChat"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebChat
+[submodule "WebDAV"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAV
+[submodule "WebDAVClientIntegration"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVClientIntegration
+[submodule "WebDAVMinorSave"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVMinorSave
+[submodule "WebToolsManager"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebToolsManager
+[submodule "WhiteSpace"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhiteSpace
+[submodule "WhitelistPages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhitelistPages
+[submodule "WhoIsWatching"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhoIsWatching
+[submodule "Whoops"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Whoops
+[submodule "WhosOnline"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhosOnline
+[submodule "Widgets"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Widgets
+[submodule "Wigo3"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wigo3
+[submodule "WikEdDiff"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikEdDiff
+[submodule "WikiApiary"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiApiary
+[submodule "WikiCategoryTagCloud"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiCategoryTagCloud
+[submodule "WikiEditor"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiEditor
+[submodule "WikiForum"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiForum
+[submodule "WikiLambda"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLambda
+[submodule "WikiLove"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLove
+[submodule "WikiLovesMonuments"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLovesMonuments
+[submodule "WikiSEO"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiSEO
+[submodule "WikiShare"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiShare
+[submodule "WikiTextLoggedInOut"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTextLoggedInOut
+[submodule "WikiToLDAP"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiToLDAP
+[submodule "WikiVideos"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiVideos
+[submodule "Wikibase"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
+[submodule "WikibaseCirrusSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseCirrusSearch
+[submodule "WikibaseLexeme"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexeme
+[submodule "WikibaseLexemeCirrusSearch"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexemeCirrusSearch
+[submodule "WikibaseManifest"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseManifest
+[submodule "WikibaseMediaInfo"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseMediaInfo
+[submodule "WikibaseQualityConstraints"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
+[submodule "WikibaseStatementUpdater"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseStatementUpdater
+[submodule "Wikidata.org"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata.org
+[submodule "WikidataPageBanner"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataPageBanner
+[submodule "WikimediaApiPortalOAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaApiPortalOAuth
+[submodule "WikimediaBadges"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaBadges
+[submodule "WikimediaCampaignEvents"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaCampaignEvents
+[submodule "WikimediaEditorTasks"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaEditorTasks
+[submodule "WikimediaEvents"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaEvents
+[submodule "WikimediaIncubator"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaIncubator
+[submodule "WikimediaMaintenance"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaMaintenance
+[submodule "WikimediaMessages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaMessages
+[submodule "Wikisource"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikisource
+[submodule "Wikispeech"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikispeech
+[submodule "WikispeechSpeechDataCollector"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikispeechSpeechDataCollector
+[submodule "Wikistories"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikistories
+[submodule "WindowsAzureStorage"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WindowsAzureStorage
+[submodule "Workflows"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Workflows
+[submodule "XAnalytics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
+[submodule "XSL"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XSL
+[submodule "XenForoAuth"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XenForoAuth
+[submodule "YetAnotherKeywords"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/YetAnotherKeywords
+[submodule "YotpoReviews"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/YotpoReviews
+[submodule "YouTube"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/YouTube
+[submodule "ZoomableImages"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ZoomableImages
+[submodule "cldr"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/cldr
+[submodule "examples"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/examples
+[submodule "googleAnalytics"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/googleAnalytics
+[submodule "intersection"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/intersection
+[submodule "timeline"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/timeline
+[submodule "wikihiero"]
+	active = true
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/wikihiero
